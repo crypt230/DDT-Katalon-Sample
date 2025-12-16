@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Subject</name>
+   <tag></tag>
+   <elementGuidId>a873eb43-0d84-4d37-9249-e14f32338233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>08548d6e-3f6b-438c-8b89-baeca0522487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPractice FormStudent Registration FormNameEmailGenderMaleFemaleOtherMobile(10 Digits)Date of BirthSubjects    0 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu. HobbiesSportsReadingMusicPictureSelect pictureCurrent AddressState and CitySelect StateSelect CitySubmit© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control css-yk16xz-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]</value>
+      <webElementGuid>576f4f4e-fa2d-4c12-babc-8696b9fafe6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>b57150ce-c83d-425e-9108-7e2d8b6e2892</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>38d9f270-f3c2-4f56-b084-bf8200dd00a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPractice FormStudent Registration FormNameEmailGenderMaleFemaleOtherMobile(10 Digits)Date of BirthSubjects    0 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu. HobbiesSportsReadingMusicPictureSelect pictureCurrent AddressState and CitySelect StateSelect CitySubmit© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control css-yk16xz-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]' or . = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPractice FormStudent Registration FormNameEmailGenderMaleFemaleOtherMobile(10 Digits)Date of BirthSubjects    0 results available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu. HobbiesSportsReadingMusicPictureSelect pictureCurrent AddressState and CitySelect StateSelect CitySubmit© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control css-yk16xz-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]')]</value>
+      <webElementGuid>46b15ff2-838c-4b8e-abd1-4c863d57c183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
